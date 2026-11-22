@@ -328,7 +328,7 @@ print()
 
 print("Knowledge Test")
 print("What is String ?")
-print("A String is a Data Type in Python and assigns to a Variable as a Value with Quote Marks(" ").")
+print('A String is a Data Type in Python and assigns to a Variable as a Value with Quote Marks(" ").')
 print('''What is the output?
 name = "PYTHON"
 print(name[2])
@@ -383,10 +383,11 @@ print()
 
 print("Final Coding Challenge")
 word = input("Enter your Word: ")
-print(word.lower().lower())
-print(word[::-1])
-print(word and word[::-1])
-if word == word[::-1]:
+word = word.strip().lower()
+reverse_word = word[::-1]
+print("Original Word:", word)
+print("Reversed Word:", reverse_word)
+if word == reverse_word:
     print("It is a Palindrome.")
 else:
     print("Not a Palindrome.")
