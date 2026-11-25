@@ -6,7 +6,8 @@ try:
          print("You are a Minor.")
     else:
          print("You are an Adult.")
-except ValueError: ("Check Your Age Once Again.")
+except ValueError: 
+    ("Check Your Age Once Again.")
 else:
     print("Age is Successfully Verified")
 finally:

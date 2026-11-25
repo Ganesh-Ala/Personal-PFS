@@ -31,6 +31,7 @@ This repository contains my daily Python learning notes, coding exercises, assig
 | Day 07 | Functions | ✅ Completed |
 | Day 08 | Strings | ✅ Completed |
 | Day 09 | Modules and Packages | ✅ Completed |
+| Day 10 | Exception Handling | ✅ Completed |
 
 More topics and practice files will be added as I progress through my learning journey.
 
@@ -55,6 +56,13 @@ Personal-PFS/
 │   ├── main.py
 │   ├── main2.py
 │   └── mini challenge.py
+├── 10.Exception Handling/
+│   ├── 1.Mini Challenge.py
+│   ├── 2.try & except.py
+│   ├── 3.else & finally.py
+│   ├── 4.upgraded Calcy.py
+│   ├── 5.raise.py
+│   └── 6.Final Assessment.py
 │
 ├── README.md
 └── .gitignore
