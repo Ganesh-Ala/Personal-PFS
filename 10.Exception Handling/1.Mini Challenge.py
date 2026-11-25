@@ -15,23 +15,23 @@ print()
 
 
 
-print("Mini Challenge")         #Selfly Tried but Wrong One.
-print('''Safe Calculator
-a = (input("Enter a Number: "))
-b = input("Enter b Number: ")
-if a == 10 or "ten" and b == 0 or "zero":
-    print(a + b)
-else:
-    print("Invalid Entry")
-if a == 10 or "ten" and b == 0 or "zero":
-    print(a - b)
-else:
-    print("Invalid Entry")
-if a == 10 or "ten" and b == 0 or "zero":
-    print(a * b)
-else:
-    print("Invalid Entry")
-if a == 10 or "ten" and b == 0 or "zero":
-    print(a / b)
-else:
-    print("Invalid Entry)''')
+#print("Mini Challenge")         #Selfly Tried but Wrong One.
+#print('''Safe Calculator
+#a = (input("Enter a Number: "))
+#b = input("Enter b Number: ")
+#if a == 10 or "ten" and b == 0 or "zero":
+#    print(a + b)
+#else:
+#    print("Invalid Entry")
+#if a == 10 or "ten" and b == 0 or "zero":
+#    print(a - b)
+#else:
+#    print("Invalid Entry")
+#if a == 10 or "ten" and b == 0 or "zero":
+#    print(a * b)
+#else:
+#    print("Invalid Entry")
+#if a == 10 or "ten" and b == 0 or "zero":
+#    print(a / b)
+#else:
+#    print("Invalid Entry)''')
